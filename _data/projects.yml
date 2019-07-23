@@ -1,0 +1,125 @@
+- layout: top-middle
+  name: Sinema Otomasyon Uygulaması
+  link: github.com/shrgrl/seherSinema
+  github: shrgrl/seherSinema
+  quote: >
+    <mark>PHP</mark> <mark>HTML</mark> <mark>Bootstrap</mark> <mark>Jquery</mark> <mark>JavaScript</mark> <mark>MySQL</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulamada, kullanıcı ve admin panelleri bulunuyor. Responsive bir web sitedir, kullanıcı ve admin için birçok işlem olanağı mevcuttur.
+
+
+- layout: top-middle
+  name: PHP Hastane Yönetim Sistemi Uygulaması
+  link: github.com/shrgrl/PHPHospitalManagementSystem
+  github: shrgrl/PHPHospitalManagementSystem
+  quote: >
+    <mark>PHP</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>MySQL</mark>
+  description: | # this will include new lines to allow paragraphs
+    Sinerji Bilişim Firmasında, stajyer öğrenci olarak görev aldığım süre içinde geliştirdiğim, hastaneler için, kullanıcı ve admin panelleri bulunan, oldukça geniş seçenekler sunan bir projedir.
+
+
+- layout: top-middle
+  name: Java Hastane Yönetim Sistemi Uygulaması
+  link: github.com/shrgrl/JavaHospitalManagementSystem
+  github: shrgrl/JavaHospitalManagementSystem
+  quote: >
+    <mark>Java</mark> <mark>Swing GUI</mark> <mark>MySQL</mark>
+  description: | # this will include new lines to allow paragraphs
+    Sinerji Bilişim Firmasında, stajyer öğrenci olarak görev aldığım süre içinde geliştirdiğim, hastaneler için, kullanıcı ve admin panelleri bulunan, oldukça geniş seçenekler sunan bir projedir.
+
+
+- layout: top-middle
+  name: Bitirme Projesi
+  quote: >
+    <mark>Python</mark> <mark>OpenCv</mark> <mark>Flask</mark> <mark>RaspberryPi</mark> <mark>Particle Argon</mark>
+  description: | # this will include new lines to allow paragraphs
+    Geliştirilecek Mobil Robot Üzerindeki LİDAR'ı Kullanarak Benzetim Ortamında ve Gerçek Robot ile FastSLAM Uygulamasıdır. TÜBİTAK destekli bir proje olup halen devam etmektedir.
+
+- layout: top-middle
+  name: ALHABER Web Haber Sayfası Arayüz Uygulaması
+  link: github.com/shrgrl/newsWebSiteTemplate
+  github: shrgrl/newsWebSiteTemplate
+  quote: >
+    <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulama, bir haber sitesinde bulunması gereken tüm özellikleri çeşitli web ve mobil için arayüz ekranları ile kullanıcıya sunuyor.
+
+
+- layout: top-middle
+  name: Epoch Zaman Dönüştürücü Uygulaması
+  link: github.com/shrgrl/epochConverter
+  github: shrgrl/epochConverter
+  quote: >
+    <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Bootstrap</mark>
+  description: | # this will include new lines to allow paragraphs
+    1 Ocak 1970 günü saat 00:00’da başlayan ve sonrasındaki herhangi bir ana kadar geçen saniye cinsinden süreye <i>Epoch Zamanı</i> adı verilmektedir. Bu projede 3 kısımdan oluşan bir sayfada çeşitli Epoch Zamanı hesaplamaları mevcuttur.
+
+
+- layout: top-middle
+  name: Güncel Döviz Kurları Uygulaması
+  link: github.com/shrgrl/guncelDovizKurlari
+  github: shrgrl/guncelDovizKurlari
+  quote: >
+    <mark>HTML</mark> <mark>Node.js</mark> <mark>Express</mark> <mark>JavaScript</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulama, API şeklinde döviz kurları ve farklı bilgilerini güncel olarak kullanıcıya göstermek amacıyla yapıldı.
+
+
+- layout: top-middle
+  name: Film Sorgulama Uygulaması
+  link: github.com/shrgrl/moviesIndexDemoRedis
+  github: shrgrl/moviesIndexDemoRedis
+  quote: >
+    <mark>HTML</mark> <mark>Node.js</mark> <mark>Express</mark> <mark>Mongoose</mark> <mark>RedisCache</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulamada, bir MongoDB veritabanı üzerinde arama yapıp, aradığımız filmin özellikleri ekrana yansıtılıyor. Extra olarak, RedisCache kullanımı ve sorgulama işlemlerinin hızlandırılması görünüyor.
+
+
+- layout: top-middle
+  name: OpenGL Basit Doğru Çizme Algoritması Uyguluması
+  link: github.com/shrgrl/brenshmanOpenGLDemo
+  github: shrgrl/brenshmanOpenGLDemo
+  quote: >
+    <mark>C++</mark> <mark>OpenGL</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulama, Bresenham Doğru Çizme Algoritması kullanarak basit bir ağaç çizimi gösteriyor.
+    
+    
+- layout: top-middle
+  name: OpenGL Okyanus Tabakalarının Sıcaklık Seviyeleri Gösterimi Uygulaması
+  link: github.com/shrgrl/simpleOpenGL3dGraph
+  github: shrgrl/simpleOpenGL3dGraph
+  quote: >
+    <mark>C++</mark> <mark>OpenGL</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulama, OpenGL 3D özelliklerini kullanarak okyanus tabakalarının sıcaklık seviyelerini gösterme amacıyla yapıldı.
+    
+    
+- layout: top-middle
+  name: Paralel Programlama ile Resim Filtreleme Uygulamaları
+  link: github.com/shrgrl/parallelImageFiltering
+  github: shrgrl/parallelImageFiltering
+  quote: >
+    <mark>MPI</mark> <mark>OpenMP</mark> <mark>C++</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu proje 4 farklı uygulama içeriyor. Her bir uygulama farklı paralellism teknikleri kullanılarak filtreleme işlemleri yapıyor.
+    
+
+- layout: top-middle
+  name: Taban Dönüşümü Uygulaması
+  link: github.com/shrgrl/simpleCProjects
+  github: shrgrl/simpleCProjects
+  quote: >
+    <mark>C</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulama, kullanıcının istediği sayıyı, istediği tabana çevirme amacıyla yapıldı.
+    
+    
+- layout: top-middle
+  name: Temel C++ Uygulamaları
+  link: github.com/shrgrl/simpleCppProjects
+  github: shrgrl/simpleCppProjects
+  quote: >
+    <mark>C++</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu proje, çeşitli temel C++ uygulamaları içeriyor: Matris Arama, Faiz Tablosu, Sayı Tahmin Oyunu, Mükemmel Sayı Hesaplama
