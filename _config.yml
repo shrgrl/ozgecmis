@@ -26,9 +26,11 @@ about_title: Hakkımda
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Merhaba, ben Seher Gürel. 23 yaşındayım, Giresun'da doğdum. Lisans eğitimimi Erzurum'da, Atatürk Üniversitesi, Bilgisayar Mühendisliği Bölümü'nde tamamladım.
-  Hedefim, mükemmel ve aranan bir mühendis olmak için yararlı ve yeni deneyimler kazanmak ve bu kazanımlarımı ülkeme faydalı olacak şekilde kullanmaktır. <br><br>
+  Eğitim hayatımda edindiğim bilgilerin üstüne her geçen gün yenilerini ekleyerek, süreklilik içinde kendimi geliştirmeye devam ediyorum.
+  Teknolojiyi en doğru şekilde kullanarak günlük yaşamda ihtiyaçları karşılayacak ya da eğlendirici, öğretici ürünler geliştirip insanlık adına faydalı işler yapmayı hedefliyorum.<br><br>
   <b>Genel yeteneklerim:</b> &nbsp; &nbsp; &nbsp; <mark>Java</mark> <mark>JavaScript</mark> <mark>MongoDB</mark> <mark>NodeJS</mark> 
-  <mark>C/C++</mark> <mark>HTML</mark> <mark>Arduino</mark> <mark>Python</mark>
+  <mark>Redis Cache</mark> <mark>C/C++</mark> <mark>HTML</mark> <mark>Python</mark> <mark>OpenGL</mark> <mark>OpenCV</mark>
+  <mark>Raspberry Pi</mark> <mark>Arduino UNO</mark> <mark>Android Studio</mark> <mark>Fritzing</mark> <mark>StarUML</mark> <mark>JSON</mark>
   <br><br>
   <b>Diller:</b> &nbsp; &nbsp; &nbsp; <mark>İNGİLİZCE &starf; &starf; &starf; &star; &star;</mark> <mark>ALMANCA &starf; &star; &star; &star; &star;</mark>
 
