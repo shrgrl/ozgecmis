@@ -1,4 +1,24 @@
 - layout: top-middle
+  name: Raspberry Pi ile RFID Uygulamasi
+  link: github.com/shrgrl/RaspberryPiRFIDUygulamasi
+  github: shrgrl/RaspberryPiRFIDUygulamasi
+  quote: >
+    <mark>Raspberry Pi</mark> <mark>Python</mark> <mark>RC522</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulamada, belirlediğimiz ID'ye sahip kartı okuttuğumuzda led yanarken farklı bir kart okuttuğumuzda led sönecek.
+    
+    
+- layout: top-middle
+  name: Arduino Uno ile RFID Uygulamasi
+  link: github.com/shrgrl/ArduinoRFIDUygulamasi
+  github: shrgrl/ArduinoRFIDUygulamasi
+  quote: >
+    <mark>Arduino Uno</mark> <mark>RC522</mark>
+  description: | # this will include new lines to allow paragraphs
+    Bu uygulamada, belirlediğimiz ID'ye sahip kartı okuttuğumuzda yeşil led yanarken farklı bir kart okuttuğumuzda kırmızı led yanacak.
+
+
+- layout: top-middle
   name: Sinema Otomasyon Uygulaması
   link: github.com/shrgrl/seherSinema
   github: shrgrl/seherSinema
