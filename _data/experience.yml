@@ -8,7 +8,7 @@
 
 - layout: left
   company: Sinerji Bilişim
-  link: http://www.barsoft.com.tr/
+  link: https://www.bizmed.com.tr/
   job_title: Stajyer Mühendis
   dates: Temmuz - 2018
   description: | # this will include new lines to allow paragraphs
@@ -16,7 +16,7 @@
  
 - layout: left
   company: Barsoft Barkod Çözümleri
-  link: https://www.bizmed.com.tr/
+  link: http://www.barsoft.com.tr/
   job_title: Stajyer Mühendis
   dates: Temmuz - 2019
   description: | # this will include new lines to allow paragraphs
