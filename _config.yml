@@ -33,6 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Raspberry Pi</mark> <mark>Arduino UNO</mark> <mark>Android Studio</mark> <mark>Fritzing</mark> <mark>StarUML</mark>
   <br><br>
   <b>Diller:</b> &nbsp; &nbsp; &nbsp; <mark>İNGİLİZCE &starf; &starf; &starf; &star; &star;</mark> <mark>ALMANCA &starf; &star; &star; &star; &star;</mark>
+  <br><br>
   <b>Sürücü Belgesi:</b> &nbsp; &nbsp; &nbsp; <mark>B Sınıfı Sürücü Belgesi</mark>
 
 # Projects Section
@@ -55,7 +56,8 @@ more_content: | # this will include new lines to allow paragraphs
     <li>Resim yapmak</li>
     <li>Dağcılık</li>
     <li>Buz Pateni</li>
-    <li>Satranç...</li>
+    <li>Satranç,</li>
+    <li>Yazı ve Şiir Yazmak...</li>
   </ul>
 
 # Footer
