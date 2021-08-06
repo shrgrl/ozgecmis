@@ -3,8 +3,8 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Seher Gürel
-title: Bilgisayar Mühendisi
+name: Seher Gürel Mousselli
+title: Abap|Fiori Developer
 email: shrgurel@gmail.com
 website: http://sehergurel.com/
 
@@ -24,10 +24,10 @@ linkedin_username: sehergurel
 about_title: Hakkımda
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Merhaba, ben Seher Gürel. 1996 yılında, Giresun'da doğdum. Lisans eğitimimi Erzurum'da, Atatürk Üniversitesi, Bilgisayar Mühendisliği Bölümü'nde tamamladım.
+  Merhaba, ben Seher Gürel Mousselli. 1996 yılında, Giresun'da doğdum. Lisans eğitimimi Erzurum'da, Atatürk Üniversitesi, Bilgisayar Mühendisliği Bölümü'nde tamamladım.
   Eğitim hayatımda edindiğim bilgilerin üstüne her geçen gün yenilerini ekleyerek, süreklilik içinde kendimi geliştirmeye devam ediyorum.
   Teknolojiyi en doğru şekilde kullanarak günlük yaşamda ihtiyaçları karşılayacak ya da eğlendirici, öğretici ürünler geliştirip insanlık adına faydalı işler yapmayı hedefliyorum.<br><br>
-  <b>Genel yeteneklerim:</b> &nbsp; &nbsp; &nbsp; <mark>Java</mark> <mark>JavaScript</mark> <mark>MongoDB</mark> <mark>NodeJS</mark> 
+  <b>Genel yeteneklerim:</b> &nbsp; &nbsp; &nbsp; <mark>ABAP</mark> <mark>SAPUI5</mark> <mark>Java</mark> <mark>JavaScript</mark> <mark>MongoDB</mark> <mark>NodeJS</mark> 
   <mark>Redis Cache</mark> <mark>C/C++</mark> <mark>HTML</mark> <mark>Python</mark> <mark>OpenGL</mark> <mark>OpenCV</mark>
   <mark>Raspberry Pi</mark> <mark>Arduino UNO</mark> <mark>Android Studio</mark> <mark>Fritzing</mark> <mark>StarUML</mark>
   <br><br>
