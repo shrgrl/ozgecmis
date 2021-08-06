@@ -1,4 +1,20 @@
 - layout: left
+  company: Renova Consulting
+  link: https://www.renovaconsulting.com/tr
+  job_title: Jr. Abap|Fiori Consultant
+  dates: Haziran - 2020
+  description: | # this will include new lines to allow paragraphs
+    Abap|Fiori Consultant olarak başladığım bu firmada takım arkadaşlarım ile birlikte SAP için çeşitli modüller geliştirip, raporlar yazıp, çıktılar tasarlayarak müşterilere profosyonel çözümler sağladım.
+
+- layout: left
+  company: Barsoft Barkod Çözümleri
+  link: http://www.barsoft.com.tr/
+  job_title: Stajyer Mühendis
+  dates: Temmuz - 2019
+  description: | # this will include new lines to allow paragraphs
+    Firmanın donanımsal olarak sahip olduğu sistemleri inceledim. Barkod okuyucu uygulamaları hakkında bilgi aldım ve bu ürünlerden yola çıkarak Raspberry Pi ve Arduino Uno ile kart okuyucu sistem projeleri geliştirdim.
+    
+- layout: left
   company: Türk Telekomünikasyon A.Ş.
   link: https://www.turktelekom.com.tr/
   job_title: Stajyer Mühendis
@@ -14,11 +30,3 @@
   description: | # this will include new lines to allow paragraphs
     Edindiğim mesleki deneyimleri uygulamaya koyup ve şirket ihtiyaçları doğrultusunda ürünler geliştirerek stajımı tamamladım.
  
-- layout: left
-  company: Barsoft Barkod Çözümleri
-  link: http://www.barsoft.com.tr/
-  job_title: Stajyer Mühendis
-  dates: Temmuz - 2019
-  description: | # this will include new lines to allow paragraphs
-    Firmanın donanımsal olarak sahip olduğu sistemleri inceledim. Barkod okuyucu uygulamaları hakkında bilgi aldım ve bu ürünlerden yola çıkarak Raspberry Pi ve Arduino Uno ile kart okuyucu sistem projeleri geliştirdim.
-    
