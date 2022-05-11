@@ -46,13 +46,13 @@ educaton_title: Akademik Bilgilerim
 
 #Certificates Section
 certificate_title: Sertifikalarım
-more_content: | 
+certificate_content: | 
   <ul>
     <li><b>SAP Certified Application Associate - Business Process Integration with SAP S/4HANA 2020</b> <i>May 11, 2022</i></li>
   </ul>
 
 # More Section
-more_title: İlgi Alanlarım ve Hobilerim
+more_title: İlgi Alanlarım ve Hobilerim deneme
 more_content: | # this will include new lines to allow paragraphs
   Programcılık, yazılım, bilgisayar mühendisliğine olan ilgimin yanı sıra, diğer ilgi alanlarım ve hobilerim:
   <ul>
